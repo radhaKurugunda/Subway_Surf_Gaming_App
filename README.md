@@ -1,1 +1,2 @@
-
+Subway_Surf_Gaming_App
+Subway Surfers is a highly popular endless runner mobile game where players assume the role of a graffiti artist who is caught in the act of tagging a subway and must evade the pursuing Inspector and his dog. The core gameplay involves running along railway tracks, swiping up, down, left, or right to dodge oncoming trains, barriers, tunnels, and other obstacles. While running, players collect coins, power-ups (such as jetpacks, super sneakers, coin magnets, and hoverboards), and other items to enhance their run and score. The game ends when the character crashes into an obstacle, is caught by the Inspector, or is hit by a train. Players can continue their run by using keys or watching advertisements.
